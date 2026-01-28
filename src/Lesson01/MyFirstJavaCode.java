@@ -1,8 +1,7 @@
 package Lesson01;
 
 public class MyFirstJavaCode {
-    public static void main(String[] args) {
-        System.out.println("Hej Verden!");
+    static void main() {
+        System.out.println ("Hej Verden!"); }
 
-    }
 }
